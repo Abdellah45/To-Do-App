@@ -76,6 +76,9 @@ body {
   align-items:center;
   line-height:24px;
 }
+.task_content .task_box .text_2{
+  flex:1;
+}
 .task_content .task_box .delete{
   background-color:#E91E63;
   padding:2px 6px;
